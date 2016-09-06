@@ -6,10 +6,10 @@
 name: Hey Mulder
 
 # Short bio or description (displayed in the header)
-description: This is a diary of my life in Seattle. Stay tuned for the '90s. They're back.
+description: The '90s are back.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/watermark.png
+avatar: /images/watermark.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: images/watermark.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hi@heymulder.com
   facebook:
   flickr:
   github: mistymadonna

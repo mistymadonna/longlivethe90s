@@ -6,10 +6,10 @@
 name: Blog
 
 # Short bio or description (displayed in the header)
-description: The '90s are back.
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/watermark.png
+avatar: /images/watermark.jpg
 
 #
 # Flags below are optional

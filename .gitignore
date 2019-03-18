@@ -1,1 +1,6 @@
 .sass-cache
+Gemfile
+Gemfile.lock
+.bundle
+.DS_Store
+images/.DS_Store

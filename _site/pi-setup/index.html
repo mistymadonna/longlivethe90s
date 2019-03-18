@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Setting Up a Raspberry Pi – Blog – </title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Raspberry Pi programming is a new passion of mine and when I started the setup, I ran into a few snags. I usually read documentation and manuals before I start working on something but I realize that may not be the same for others so, I thought I’d share some gotchas so I can help the next person. I didn’t find one source of information for all of these problems so, I wanted to share what worked for me!
+
+" />
+    <meta property="og:description" content="Raspberry Pi programming is a new passion of mine and when I started the setup, I ran into a few snags. I usually read documentation and manuals before I start working on something but I realize that may not be the same for others so, I thought I’d share some gotchas so I can help the next person. I didn’t find one source of information for all of these problems so, I wanted to share what worked for me!
+
+" />
+    
+    <meta name="author" content="Blog" />
+
+    
+    <meta property="og:title" content="Setting Up a Raspberry Pi" />
+    <meta property="twitter:title" content="Setting Up a Raspberry Pi" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Blog - " href="/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="http://heymulder.com" class="site-avatar"><img src="/images/watermark.jpg" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="http://heymulder.com">Blog</a></h1>
+            <p class="site-description"></p>
+          </div>
+
+          <nav>
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>Setting Up a Raspberry Pi</h1>
+
+  <div class="entry">
+    <p>Raspberry Pi programming is a new passion of mine and when I started the setup, I ran into a few snags. I usually read documentation and manuals before I start working on something but I realize that may not be the same for others so, I thought I’d share some gotchas so I can help the next person. I didn’t find one source of information for all of these problems so, I wanted to share what worked for me!</p>
+
+<p>Raspberry Pi Basic Starter Kit</p>
+
+<ol>
+  <li>
+    <p>Read the Raspberry Pi Quick Start Guide and the small white instruction manual. They’ll supplement each other if you run into problems.</p>
+  </li>
+  <li>
+    <p>If your kit didn’t include a microSD card (mine didn’t), then, you’ll need to do some extra steps. The important thing to know is that if you don’t have a card, you have to get the NOOBS software on your Pi. You can’t just download the software and put it on the Pi. Download the software on your computer and read the README. The README will give you specific instructions on how to get the software on your Pi.</p>
+  </li>
+  <li>
+    <p>Format your microSD card. Follow the exact instructions on the NOOBS README! It’s going to take a while to format so go do other stuff because mine took about 4-6 hours.</p>
+  </li>
+  <li>
+    <p>After the card is formatted, drag the contents of the NOOBS software, not the unzipped folder. (This is in the README but again, don’t just drag the folder over unzipped or not, make sure it’s unzipped and drag all the contents over.</p>
+  </li>
+  <li>
+    <p>Find out the IP address of your Pi. You can use Fing (a mobile app) or <code class="highlighter-rouge">ipconfig</code> in the terminal of your Pi once you get your Pi hooked to a TV.</p>
+  </li>
+  <li>
+    <p>Connect your Pi to a TV with keyboard/mouse and connect to your WIFI. (Every time you connect to a different WIFI connection, the Pi’s IP address will change so remember this.)</p>
+  </li>
+  <li>
+    <p>If you want to connect your Pi wirelessly to your MacBook like I did, install VNC Viewer on MacBook and on the Pi follow these instructions: <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/README.md">here</a> (Skip to: Authenticating to VNC server). You’ll enter your Pi’s IP address on VNC and connect.</p>
+  </li>
+</ol>
+
+<p>These are the steps that worked for me for the project I was working on. I did find a lot of blog posts saying to use different tools the Mac already has instead of VNC Viewer but none of them worked fast enough for me and after I spent a little bit of time trying to make those work, I settled for this method and didn’t run into any problems.</p>
+
+  </div>
+
+  <div class="date">
+    Written on March  1, 2018
+  </div>
+
+  
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+
+
+
+<a href="https://github.com/mistymadonna"><i class="svg-icon github"></i></a>
+<a href="https://instagram.com/mistymadonna"><i class="svg-icon instagram"></i></a>
+
+
+
+<a href="https://www.twitter.com/mistymadonna"><i class="svg-icon twitter"></i></a>
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-77282579-1', 'auto');
+		ga('send', 'pageview', {
+		  'page': '/pi-setup/',
+		  'title': 'Setting Up a Raspberry Pi'
+		});
+	</script>
+	<!-- End Google Analytics -->
+
+
+  </body>
+</html>

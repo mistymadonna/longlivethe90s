@@ -1,5 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T18:32:20-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog</title><entry><title type="html">How to Prepare for the Technical Interview</title><link href="http://localhost:4000/how-best/" rel="alternate" type="text/html" title="How to Prepare for the Technical Interview" /><published>2019-01-18T00:00:00-08:00</published><updated>2019-01-18T00:00:00-08:00</updated><id>http://localhost:4000/how-best</id><content type="html" xml:base="http://localhost:4000/how-best/">&lt;p&gt;How to Prepare for the Technical Interview
-Interviewing can be brutal. But it doesn’t have to be.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T18:54:10-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog</title><entry><title type="html">13 Secrets from The Secret History of Twin Peaks</title><link href="http://localhost:4000/secret-twinpeaks/" rel="alternate" type="text/html" title="13 Secrets from The Secret History of Twin Peaks" /><published>2019-03-15T00:00:00-07:00</published><updated>2019-03-15T00:00:00-07:00</updated><id>http://localhost:4000/secret-twinpeaks</id><content type="html" xml:base="http://localhost:4000/secret-twinpeaks/">&lt;p&gt;A few months ago I read The Secret History of Twin Peaks and here are some of my favorite things I learned along the way.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;When the Log Lady was seven, she and two other kids went on a nature walk. They all thought they were gone for an hour, but they were actually gone for a day, with the LL being found near Pearl Lake. When she was found, she had three triangles on the back of her right knee and she didn’t remember anything. She asked her doctor, Donna’s grandfather (Dan Hayward), if “he thought the owls were coming back.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hank’s dad, Elmer Jennings, passed out drunk and drowned in “a steel tub of his basement beer-brewing apparatus.” Hank’s grandfather, Einer, also enjoyed beer and also reported seeing a UFO.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dr. Lawrence Jacoby’s brother was a newspaper reporter (Twin Peaks Gazette).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Carl Rodd (the third kid abducted with the Log Lady and Henry Stanton’s character on Twin Peaks) also had triangles.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reverse speech is related to the Illuminati and is supposed to offer a window into the deepest parts of the unconscious. “Tangled Web”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ed Hurley, Hank, Hawk, Harry and his brother, and Jerry Horne played football at Twin Peaks High School were undefeated until they lost at state.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Packards and Martells were rival families until Pete and Catherine got together. The Martells sold their mill to the Packards.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ed Hurley is James’s uncle.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Andy is a ninth-degree black belt in gossip. “You know, Hawk I never think of myself as a gossip. I think of myself as an oral historian.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hank was fatally knifed in the prison weight room by a distant cousin of the Renault family.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The mayor’s brother, Air Force Colonel Doug Milford, had a UFO/alien encounter and became a stealth military lieutenant, working on secret projects, and was a Nixon confidant. He could keep a secret.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dr. Jacoby was suspended indefinitely from practicing medicine so he moved back to Hawaii.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Major Briggs took over Colonel Milford’s work.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">A few months ago I read The Secret History of Twin Peaks and here are some of my favorite things I learned along the way.</summary></entry><entry><title type="html">How to Prepare for the Technical Interview</title><link href="http://localhost:4000/how-interview/" rel="alternate" type="text/html" title="How to Prepare for the Technical Interview" /><published>2019-01-18T00:00:00-08:00</published><updated>2019-01-18T00:00:00-08:00</updated><id>http://localhost:4000/how-interview</id><content type="html" xml:base="http://localhost:4000/how-interview/">&lt;p&gt;Interviewing can be brutal. But it doesn’t have to be.&lt;/p&gt;
 
 &lt;p&gt;Ask anyone how to prepare for an interview, and their answer will more than likely be the standard canned response of reading a certain green book.&lt;/p&gt;
 
@@ -43,7 +84,7 @@ Interviewing can be brutal. But it doesn’t have to be.&lt;/p&gt;
 
 &lt;p&gt;Following this guide proved successful for me, and I want the same for you! You can do it—I believe in you!&lt;/p&gt;
 
-&lt;p&gt;As always, I welcome comments and questions!&lt;/p&gt;</content><author><name></name></author><summary type="html">How to Prepare for the Technical Interview Interviewing can be brutal. But it doesn’t have to be.</summary></entry><entry><title type="html">How to Be the Best!</title><link href="http://localhost:4000/how-best/" rel="alternate" type="text/html" title="How to Be the Best!" /><published>2018-03-15T00:00:00-07:00</published><updated>2018-03-15T00:00:00-07:00</updated><id>http://localhost:4000/how-best</id><content type="html" xml:base="http://localhost:4000/how-best/">&lt;p&gt;You just landed your first job and you’re excited! You worked hard to get here and now it’s your time to burst through the dirt and become the strong Douglas-fir that you are. You were destined for great things, so let’s show ‘em who’s the best!&lt;/p&gt;
+&lt;p&gt;As always, I welcome comments and questions!&lt;/p&gt;</content><author><name></name></author><summary type="html">Interviewing can be brutal. But it doesn’t have to be.</summary></entry><entry><title type="html">How to Be the Best!</title><link href="http://localhost:4000/how-best/" rel="alternate" type="text/html" title="How to Be the Best!" /><published>2018-03-15T00:00:00-07:00</published><updated>2018-03-15T00:00:00-07:00</updated><id>http://localhost:4000/how-best</id><content type="html" xml:base="http://localhost:4000/how-best/">&lt;p&gt;You just landed your first job and you’re excited! You worked hard to get here and now it’s your time to burst through the dirt and become the strong Douglas-fir that you are. You were destined for great things, so let’s show ‘em who’s the best!&lt;/p&gt;
 
 &lt;p&gt;I’m going to show you to be the best in three steps: building your credibility; use discovery and learning; and network.&lt;/p&gt;
 

@@ -1,13 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-10-30T20:09:38+01:00</updated><id>/</id><title>Blog</title><subtitle>The &#39;90s are back.</subtitle><entry><title>the Radio</title><link href="/the-radio/" rel="alternate" type="text/html" title="the Radio" /><published>2016-10-30T00:00:00+01:00</published><updated>2016-10-30T00:00:00+01:00</updated><id>/the-radio</id><content type="html" xml:base="/the-radio/">&lt;p&gt;Dancing and singing to “Rhythm is a Dancer” by SNAP! shaped my childhood.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T18:00:38-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog</title><entry><title type="html">Setting Up a Raspberry Pi</title><link href="http://localhost:4000/pi-setup/" rel="alternate" type="text/html" title="Setting Up a Raspberry Pi" /><published>2018-03-15T00:00:00-07:00</published><updated>2018-03-15T00:00:00-07:00</updated><id>http://localhost:4000/pi-setup</id><content type="html" xml:base="http://localhost:4000/pi-setup/">&lt;p&gt;Raspberry Pi programming is a new passion of mine and when I started the setup, I ran into a few snags. I usually read documentation and manuals before I start working on something but I realize that may not be the same for others so, I thought I’d share some gotchas so I can help the next person. I didn’t find one source of information for all of these problems so, I wanted to share what worked for me!&lt;/p&gt;
+
+&lt;p&gt;Raspberry Pi Basic Starter Kit&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read the Raspberry Pi Quick Start Guide and the small white instruction manual. They’ll supplement each other if you run into problems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If your kit didn’t include a microSD card (mine didn’t), then, you’ll need to do some extra steps. The important thing to know is that if you don’t have a card, you have to get the NOOBS software on your Pi. You can’t just download the software and put it on the Pi. Download the software on your computer and read the README. The README will give you specific instructions on how to get the software on your Pi.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Format your microSD card. Follow the exact instructions on the NOOBS README! It’s going to take a while to format so go do other stuff because mine took about 4-6 hours.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After the card is formatted, drag the contents of the NOOBS software, not the unzipped folder. (This is in the README but again, don’t just drag the folder over unzipped or not, make sure it’s unzipped and drag all the contents over.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find out the IP address of your Pi. You can use Fing (a mobile app) or &lt;code class=&quot;highlighter-rouge&quot;&gt;ipconfig&lt;/code&gt; in the terminal of your Pi once you get your Pi hooked to a TV.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Connect your Pi to a TV with keyboard/mouse and connect to your WIFI. (Every time you connect to a different WIFI connection, the Pi’s IP address will change so remember this.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you want to connect your Pi wirelessly to your MacBook like I did, install VNC Viewer on MacBook and on the Pi follow these instructions: &lt;a href=&quot;https://www.raspberrypi.org/documentation/remote-access/vnc/README.md&quot;&gt;here&lt;/a&gt; (Skip to: Authenticating to VNC server). You’ll enter your Pi’s IP address on VNC and connect.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are the steps that worked for me for the project I was working on. I did find a lot of blog posts saying to use different tools the Mac already has instead of VNC Viewer but none of them worked fast enough for me and after I spent a little bit of time trying to make those work, I settled for this method and didn’t run into any problems.&lt;/p&gt;</content><author><name></name></author><summary type="html">Raspberry Pi programming is a new passion of mine and when I started the setup, I ran into a few snags. I usually read documentation and manuals before I start working on something but I realize that may not be the same for others so, I thought I’d share some gotchas so I can help the next person. I didn’t find one source of information for all of these problems so, I wanted to share what worked for me!</summary></entry><entry><title type="html">the Radio</title><link href="http://localhost:4000/the-radio/" rel="alternate" type="text/html" title="the Radio" /><published>2016-10-30T00:00:00-07:00</published><updated>2016-10-30T00:00:00-07:00</updated><id>http://localhost:4000/the-radio</id><content type="html" xml:base="http://localhost:4000/the-radio/">&lt;p&gt;Dancing and singing to “Rhythm is a Dancer” by SNAP! enhanced my childhood.&lt;/p&gt;
 
 &lt;p&gt;I wore that shit out.&lt;/p&gt;
 
-&lt;p&gt;When that song came on, I left my small town and teleported into another universe dancing my troubles away. The radio station, 102.5 The Party, was my dancing fuel. I even had a choreographed dance routine to Rhythm.&lt;/p&gt;
+&lt;p&gt;When that song came on, I left my small town and teleported into another universe dancing my troubles away. The radio station, 102.5 The Party, was my dancing fuel and I even had a choreographed dance routine to Rhythm.&lt;/p&gt;
 
-&lt;p&gt;Radio in the ’90s was a big a deal for me. Switching from The Party to 96 KIX kept me fresh to the latest jams. Casey Kasem’s Weekly Top 40 was also among the stops I’d find myself each week. The Party focused on dance and pop hits and KIX was your destination for R&amp;amp;B/hip-hop. KIX introduced me to En Vogue, Tag Team, Blackstreet, Montell Jordan and Tupac. It even taught me how to do the Tootsee Roll dance because the butterfly was old. If I wanted Guns N’ Roses or U2, I went to Rock 92.3. Through the week, I fueled on KIX, but Friday nights were about The Party and I never missed Casey.&lt;/p&gt;
+&lt;p&gt;Radio in the ’90s was a big a deal for me. Switching from The Party to 96 KIX kept me fresh to the latest jams. Casey Kasem’s Weekly Top 40 was also among the stops I’d find myself each week. The Party focused on dance and pop hits and KIX was your destination for R&amp;amp;B/hip-hop. KIX introduced me to En Vogue, Tag Team, Blackstreet, Montell Jordan, and Tupac. It even taught me how to do the Tootsee Roll dance because the butterfly was old. If I wanted Guns N’ Roses or U2, I went to Rock 92.3. Throughout the week, I fueled on KIX, but Friday nights were about The Party and I never missed Casey.&lt;/p&gt;
 
-&lt;p&gt;Luckily, living in Seattle made my ’90s radio dreams come true with HOT 103.7 because they only play ’90s and ’00s hits. They’ve led me to revist my love of radio and make me feel right at home. I listen to the radio when I wake up, when I shower, when I go to work, while I’m eating and when I get home in the evening. My radio even comes with me when I travel.&lt;/p&gt;
+&lt;p&gt;Luckily, living in Seattle made my ’90s radio dreams come true with HOT 103.7 because they only play ’90s and ’00s hits. They’ve led me to revisit my love of radio and make me feel right at home. I listen to the radio when I wake up, when I shower, when I go to work, while I’m eating, and when I get home in the evening. My radio even comes with me when I travel.&lt;/p&gt;
 
 &lt;p&gt;Check out the video &lt;a href=&quot;https://www.youtube.com/watch?v=1XXV8Sg438s&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Fun Facts: I met Wolfman Jack when I was a kid and totally geeked out. Also, if you don’t know about my love for Montell Jordan’s “This Is How We Do It,” ask me about it sometime.&lt;/p&gt;</content><summary>Dancing and singing to “Rhythm is a Dancer” by SNAP! shaped my childhood.</summary></entry></feed>
+&lt;p&gt;Fun Facts: I met Wolfman Jack when I was a kid and totally geeked out. Also, if you don’t know about my love for Montell Jordan’s “This Is How We Do It,” ask me about it sometime.&lt;/p&gt;</content><author><name></name></author><summary type="html">Dancing and singing to “Rhythm is a Dancer” by SNAP! enhanced my childhood.</summary></entry></feed>

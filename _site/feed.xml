@@ -1,13 +1,173 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T19:07:09-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog</title><entry><title type="html">the Radio</title><link href="http://localhost:4000/the-radio/" rel="alternate" type="text/html" title="the Radio" /><published>2016-10-30T00:00:00-07:00</published><updated>2016-10-30T00:00:00-07:00</updated><id>http://localhost:4000/the-radio</id><content type="html" xml:base="http://localhost:4000/the-radio/">&lt;p&gt;Dancing and singing to “Rhythm is a Dancer” by SNAP! shaped my childhood.&lt;/p&gt;
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T19:05:45-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog</title><entry><title type="html">13 Secrets from The Secret History of Twin Peaks</title><link href="http://localhost:4000/secret-twinpeaks/" rel="alternate" type="text/html" title="13 Secrets from The Secret History of Twin Peaks" /><published>2019-03-15T00:00:00-07:00</published><updated>2019-03-15T00:00:00-07:00</updated><id>http://localhost:4000/secret-twinpeaks</id><content type="html" xml:base="http://localhost:4000/secret-twinpeaks/">&lt;p&gt;A few months ago I read The Secret History of Twin Peaks and here are some of my favorite things I learned along the way.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;When the Log Lady was seven, she and two other kids went on a nature walk. They all thought they were gone for an hour, but they were actually gone for a day, with the LL being found near Pearl Lake. When she was found, she had three triangles on the back of her right knee and she didn’t remember anything. She asked her doctor, Donna’s grandfather (Dan Hayward), if “he thought the owls were coming back.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hank’s dad, Elmer Jennings, passed out drunk and drowned in “a steel tub of his basement beer-brewing apparatus.” Hank’s grandfather, Einer, also enjoyed beer and also reported seeing a UFO.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dr. Lawrence Jacoby’s brother was a newspaper reporter (Twin Peaks Gazette).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Carl Rodd (the third kid abducted with the Log Lady and Henry Stanton’s character on Twin Peaks) also had triangles.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reverse speech is related to the Illuminati and is supposed to offer a window into the deepest parts of the unconscious. “Tangled Web”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ed Hurley, Hank, Hawk, Harry and his brother, and Jerry Horne played football at Twin Peaks High School were undefeated until they lost at state.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Packards and Martells were rival families until Pete and Catherine got together. The Martells sold their mill to the Packards.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ed Hurley is James’s uncle.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Andy is a ninth-degree black belt in gossip. “You know, Hawk I never think of myself as a gossip. I think of myself as an oral historian.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hank was fatally knifed in the prison weight room by a distant cousin of the Renault family.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The mayor’s brother, Air Force Colonel Doug Milford, had a UFO/alien encounter and became a stealth military lieutenant, working on secret projects, and was a Nixon confidant. He could keep a secret.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dr. Jacoby was suspended indefinitely from practicing medicine so he moved back to Hawaii.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Major Briggs took over Colonel Milford’s work.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">A few months ago I read The Secret History of Twin Peaks and here are some of my favorite things I learned along the way.</summary></entry><entry><title type="html">How to Prepare for the Technical Interview</title><link href="http://localhost:4000/how-interview/" rel="alternate" type="text/html" title="How to Prepare for the Technical Interview" /><published>2019-01-18T00:00:00-08:00</published><updated>2019-01-18T00:00:00-08:00</updated><id>http://localhost:4000/how-interview</id><content type="html" xml:base="http://localhost:4000/how-interview/">&lt;p&gt;Interviewing can be brutal. But it doesn’t have to be.&lt;/p&gt;
+
+&lt;p&gt;Ask anyone how to prepare for an interview, and their answer will more than likely be the standard canned response of reading a certain green book.&lt;/p&gt;
+
+&lt;p&gt;They heard it helps and maybe they’ll tell you about the websites where you can practice coding actual interview questions, but that’s as far as you’ll get with their advice. Reading that book alone didn’t do it for me—and I’ve read it three times! The coding sites didn’t help me either (and I believe they actually hindered my learning, so I wouldn’t recommend them).&lt;/p&gt;
+
+&lt;p&gt;People ask me a lot about interviewing and how I learned computer science fundamentals without a computer science degree. It wasn’t easy.&lt;/p&gt;
+
+&lt;p&gt;No one told me what to study, where to find it, or how to do it. I had to figure it out, and now I want to make it easier for others.&lt;/p&gt;
+
+&lt;p&gt;In this post, I’ll share what helped me prepare and ultimately succeed in interviews for jobs in tech. These tactics helped me tremendously, and I wish someone would have told me the things I’m about to share.&lt;/p&gt;
+
+&lt;p&gt;“Desperation repels people, but passion attracts people. So don’t walk into the job interview or a social situation with an air of desperation or need. Walk in with a passion and with joy. People lean into light. So shine yours and watch what happens.” – Ava DuVernay (Interview with Teen Vogue)&lt;/p&gt;
+
+&lt;p&gt;Tip #1: Mix Up the Learning Medium&lt;/p&gt;
+
+&lt;p&gt;When I’m learning something new, the best approach is to research the topics and compile a list of different kinds of resources. I look at a mixture of books, YouTube videos, and blog posts before writing any code. Rotating between the different mediums of learning has been the most effective path for me. For example, I’d spend two hours reading a book on recursion, one hour of watching videos, one hour of reading blog posts, and conclude the day with an hour of writing code. Once I felt like I had a decent amount of background knowledge (usually a couple of days), I’d edit the hours to focus more on videos and writing code. Every couple of days, I’d introduce a new topic and incorporate it into the study plan.&lt;/p&gt;
+
+&lt;p&gt;Taking a break every two hours or when you get stuck is essential because your brain can only focus on a single task for, at most, two hours. Anything over that without a break is a waste. Take a break every two hours, or if you get stuck on a problem, take a 10 minute break and come back to it. The key is to avoid getting frustrated, because that won’t help your comprehension.&lt;/p&gt;
+
+&lt;p&gt;Tip #2: Master Concepts, not Questions&lt;/p&gt;
+
+&lt;p&gt;To be fully prepared, it’s imperative that you study computer science concepts and master them, instead of trying to prepare for certain questions that you think a company is going to ask. Be able to talk about the tradeoffs and explain your approach, because they’ll definitely ask you specific questions to test your grasp of the concept.&lt;/p&gt;
+
+&lt;p&gt;I interviewed at all the big tech companies, including the social media ones, and my biggest advice is that you can’t predict what they’re going to ask so don’t spend time trying. Spending time mastering concepts is the best advice I can give. Work on understanding the whys and the hows will manifest.&lt;/p&gt;
+
+&lt;p&gt;In my interviews, I was asked questions about arrays, recursion vs. iteration, graphs, maps, hash tables, and quicksort vs. mergesort.&lt;/p&gt;
+
+&lt;p&gt;The best resource for this is V. Anton Spraul’s, “Think Like a Programmer.” I wish I could’ve read this book a year ago because it would have made a big difference. He explains computer science from a different perspective and his fresh approach will leave you saying to yourself that this stuff isn’t so hard after all. It’s a big confidence booster and he clears up the gray areas.&lt;/p&gt;
+
+&lt;p&gt;After reading Spraul’s book, YouTube is a great source for programming videos. My favorite channels are Computerphile, V. Anton Spraul, and HackerRank. Computerphile’s channel has a lot of in-depth explanations and entertaining anecdotes to help you learn.&lt;/p&gt;
+
+&lt;p&gt;Medium has been valuable for blog posts about computer science—especially Vaidehi Joshi’s posts. Joshi’s posts explain computer science concepts visually and the simplest way possible. I also recommend these blog posts: How Not to be Stumped by Trees, Deep Dive Through A Graph: DFS Traversal, Less Repetition, More Dynamic Programming, and Algorithms in Plain English: Time Complexity and Big-O Notation.&lt;/p&gt;
+
+&lt;p&gt;Tip #3: Focus on Your Strengths&lt;/p&gt;
+
+&lt;p&gt;What do you do if you’re not sure what part of tech you want to be in, or if you want to be front-end or back-end or mobile? A lot of people ask me how I figured out what I wanted to do in tech.&lt;/p&gt;
+
+&lt;p&gt;If you’re in this boat, don’t worry—I’ve got you covered. If you’re unsure what you part of tech you want to be in, that’s okay. We’ve all been there! Focus on your strengths. What are you good at? What do you enjoy? If you’re unsure, read “Soar With Your Strengths.” It will help guide you on these answers. It helps you determine a hobby vs. a strength and gives you confidence in figuring this all out.&lt;/p&gt;
+
+&lt;p&gt;Lastly, a book I recommend is “Programing Interviews Exposed.” It’s short and will help reinforce the topics and sprinkle in some programming questions.&lt;/p&gt;
+
+&lt;p&gt;Following this guide proved successful for me, and I want the same for you! You can do it—I believe in you!&lt;/p&gt;
+
+&lt;p&gt;As always, I welcome comments and questions!&lt;/p&gt;</content><author><name></name></author><summary type="html">Interviewing can be brutal. But it doesn’t have to be.</summary></entry><entry><title type="html">How to Be the Best!</title><link href="http://localhost:4000/how-best/" rel="alternate" type="text/html" title="How to Be the Best!" /><published>2018-03-15T00:00:00-07:00</published><updated>2018-03-15T00:00:00-07:00</updated><id>http://localhost:4000/how-best</id><content type="html" xml:base="http://localhost:4000/how-best/">&lt;p&gt;You just landed your first job and you’re excited! You worked hard to get here and now it’s your time to burst through the dirt and become the strong Douglas-fir that you are. You were destined for great things, so let’s show ‘em who’s the best!&lt;/p&gt;
+
+&lt;p&gt;I’m going to show you to be the best in three steps: building your credibility; use discovery and learning; and network.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Build Credibility&lt;/p&gt;
+
+    &lt;p&gt;Building your credibility in your new job is the most crucial step in becoming successful in your career. Doing this well will allow you to the other two steps we’ll talk about today: learning and networking. Once you have this mastered, the other two are intuitive.&lt;/p&gt;
+
+    &lt;p&gt;Don’t say your level of experience, or that you don’t have a CS degree.
+ You are not your title. I’ve known people who made the mistake of doing one or both of the above, and couldn’t get past that. They were always seen as the “junior.” They were still referred to as one when they were doing work levels above. My Granny always said, “Don’t volunteer information that someone could use against you.” This runs true as a life lesson. Some companies care about CS degrees, and some don’t. But in my experience, if you can do the work, then they won’t necessarily care about your education.&lt;/p&gt;
+
+    &lt;p&gt;Ask questions!
+ This is the most important step in the process of building a reputation. The best programmers ask questions and are constantly learning. In parallel with asking questions, think about your questions before you ask. Take the time to write them out, read them back to yourself, and edit again. As you level up by asking and gaining knowledge, people on your team will take notice and you’ll soon be a gatekeeper of the codebase. If you have a question, someone else probably has the same one (or hasn’t thought of it yet). If you are willing to ask questions no one else is, you’re at an advantage. Asking questions doesn’t make you look bad. In fact, thoughtful questions show you care about your work. So just ask!&lt;/p&gt;
+
+    &lt;p&gt;Pay it forward.
+ Now that you’re asking questions and gaining knowledge, write some documentation. Lack of documentation is a common problem in tech, but if you can take that new knowledge and share it with others, your teammates will pay attention. Documentation establishes your credibility from the start. Don’t put it off for later—trust me!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Discover &amp;amp; Learn&lt;/p&gt;
+
+    &lt;p&gt;Learning your codebase will help you realize what areas you love and want to learn more about.
+ It allows you to experiment because you think you may know what you want, but you probably don’t. Don’t sell yourself short! As you become more experienced, your interests will change. It’s vital to experiment and be exposed to all areas of the business, because you may not always want to do what you’re doing right now.&lt;/p&gt;
+
+    &lt;p&gt;Putting yourself out there is scary but it’s worth every second of it.
+ You gotta put yourself out there or you’ll never grow. Don’t doubt yourself. Find a mentor. If you can’t find one, be your own mentor. Love yourself. Tweet me.&lt;/p&gt;
+
+    &lt;p&gt;Learning software fundamentals will give you so much context.
+ I can’t even begin to tell you—this will set you apart from other engineers. I know you probably think syntax, x language, and coding is most important, but you need the fundamentals. If you want to be a principal engineer or want to have a long career in tech as an engineer, you must know fundamentals. Udemy is a great place to start and usually runs $10 days on all kinds of technology, so take advantage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Network&lt;/p&gt;
+
+    &lt;p&gt;Meet people in and outside your company. Twitter is #1 for this! Find people who write in the language you know or work at the company you admire. Go to meetups in your area of interest—don’t waste your time at meetups that aren’t related to what you do or what you want to learn. If you’re slightly interested in a meetup, research the speakers or companies who are participating to make sure it’s worth it. Bring business cards to these events.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These steps will make you the best, so go get that promotion! If you have questions, tweet me (@mistymadonna) and I’m always happy to help.&lt;/p&gt;</content><author><name></name></author><summary type="html">You just landed your first job and you’re excited! You worked hard to get here and now it’s your time to burst through the dirt and become the strong Douglas-fir that you are. You were destined for great things, so let’s show ‘em who’s the best!</summary></entry><entry><title type="html">Setting Up a Raspberry Pi</title><link href="http://localhost:4000/pi-setup/" rel="alternate" type="text/html" title="Setting Up a Raspberry Pi" /><published>2018-03-01T00:00:00-08:00</published><updated>2018-03-01T00:00:00-08:00</updated><id>http://localhost:4000/pi-setup</id><content type="html" xml:base="http://localhost:4000/pi-setup/">&lt;p&gt;Raspberry Pi programming is a new passion of mine and when I started the setup, I ran into a few snags. I usually read documentation and manuals before I start working on something but I realize that may not be the same for others so, I thought I’d share some gotchas so I can help the next person. I didn’t find one source of information for all of these problems so, I wanted to share what worked for me!&lt;/p&gt;
+
+&lt;p&gt;Raspberry Pi Basic Starter Kit&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read the Raspberry Pi Quick Start Guide and the small white instruction manual. They’ll supplement each other if you run into problems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If your kit didn’t include a microSD card (mine didn’t), then, you’ll need to do some extra steps. The important thing to know is that if you don’t have a card, you have to get the NOOBS software on your Pi. You can’t just download the software and put it on the Pi. Download the software on your computer and read the README. The README will give you specific instructions on how to get the software on your Pi.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Format your microSD card. Follow the exact instructions on the NOOBS README! It’s going to take a while to format so go do other stuff because mine took about 4-6 hours.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After the card is formatted, drag the contents of the NOOBS software, not the unzipped folder. (This is in the README but again, don’t just drag the folder over unzipped or not, make sure it’s unzipped and drag all the contents over.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find out the IP address of your Pi. You can use Fing (a mobile app) or &lt;code class=&quot;highlighter-rouge&quot;&gt;ipconfig&lt;/code&gt; in the terminal of your Pi once you get your Pi hooked to a TV.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Connect your Pi to a TV with keyboard/mouse and connect to your WIFI. (Every time you connect to a different WIFI connection, the Pi’s IP address will change so remember this.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you want to connect your Pi wirelessly to your MacBook like I did, install VNC Viewer on MacBook and on the Pi follow these instructions: &lt;a href=&quot;https://www.raspberrypi.org/documentation/remote-access/vnc/README.md&quot;&gt;here&lt;/a&gt; (Skip to: Authenticating to VNC server). You’ll enter your Pi’s IP address on VNC and connect.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are the steps that worked for me for the project I was working on. I did find a lot of blog posts saying to use different tools the Mac already has instead of VNC Viewer but none of them worked fast enough for me and after I spent a little bit of time trying to make those work, I settled for this method and didn’t run into any problems.&lt;/p&gt;</content><author><name></name></author><summary type="html">Raspberry Pi programming is a new passion of mine and when I started the setup, I ran into a few snags. I usually read documentation and manuals before I start working on something but I realize that may not be the same for others so, I thought I’d share some gotchas so I can help the next person. I didn’t find one source of information for all of these problems so, I wanted to share what worked for me!</summary></entry><entry><title type="html">the Radio</title><link href="http://localhost:4000/the-radio/" rel="alternate" type="text/html" title="the Radio" /><published>2016-10-30T00:00:00-07:00</published><updated>2016-10-30T00:00:00-07:00</updated><id>http://localhost:4000/the-radio</id><content type="html" xml:base="http://localhost:4000/the-radio/">&lt;p&gt;Dancing and singing to “Rhythm is a Dancer” by SNAP! enhanced my childhood.&lt;/p&gt;
+>>>>>>> 85cbb825771ed9c0d078c8c8e47ae8f99dc372ed
 
 &lt;p&gt;I wore that shit out.&lt;/p&gt;
 
-&lt;p&gt;When that song came on, I left my small town and teleported into another universe dancing my troubles away. The radio station, 102.5 The Party, was my dancing fuel. I even had a choreographed dance routine to Rhythm.&lt;/p&gt;
+&lt;p&gt;When that song came on, I left my small town and teleported into another universe dancing my troubles away. The radio station, 102.5 The Party, was my dancing fuel and I even had a choreographed dance routine to Rhythm.&lt;/p&gt;
 
-&lt;p&gt;Radio in the ’90s was a big a deal for me. Switching from The Party to 96 KIX kept me fresh to the latest jams. Casey Kasem’s Weekly Top 40 was also among the stops I’d find myself each week. The Party focused on dance and pop hits and KIX was your destination for R&amp;amp;B/hip-hop. KIX introduced me to En Vogue, Tag Team, Blackstreet, Montell Jordan and Tupac. It even taught me how to do the Tootsee Roll dance because the butterfly was old. If I wanted Guns N’ Roses or U2, I went to Rock 92.3. Through the week, I fueled on KIX, but Friday nights were about The Party and I never missed Casey.&lt;/p&gt;
+&lt;p&gt;Radio in the ’90s was a big a deal for me. Switching from The Party to 96 KIX kept me fresh to the latest jams. Casey Kasem’s Weekly Top 40 was also among the stops I’d find myself each week. The Party focused on dance and pop hits and KIX was your destination for R&amp;amp;B/hip-hop. KIX introduced me to En Vogue, Tag Team, Blackstreet, Montell Jordan, and Tupac. It even taught me how to do the Tootsee Roll dance because the butterfly was old. If I wanted Guns N’ Roses or U2, I went to Rock 92.3. Throughout the week, I fueled on KIX, but Friday nights were about The Party and I never missed Casey.&lt;/p&gt;
 
-&lt;p&gt;Luckily, living in Seattle made my ’90s radio dreams come true with HOT 103.7 because they only play ’90s and ’00s hits. They’ve led me to revist my love of radio and make me feel right at home. I listen to the radio when I wake up, when I shower, when I go to work, while I’m eating and when I get home in the evening. My radio even comes with me when I travel.&lt;/p&gt;
+&lt;p&gt;Luckily, living in Seattle made my ’90s radio dreams come true with HOT 103.7 because they only play ’90s and ’00s hits. They’ve led me to revisit my love of radio and make me feel right at home. I listen to the radio when I wake up, when I shower, when I go to work, while I’m eating, and when I get home in the evening. My radio even comes with me when I travel.&lt;/p&gt;
 
 &lt;p&gt;Check out the video &lt;a href=&quot;https://www.youtube.com/watch?v=1XXV8Sg438s&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;Fun Facts: I met Wolfman Jack when I was a kid and totally geeked out. Also, if you don’t know about my love for Montell Jordan’s “This Is How We Do It,” ask me about it sometime.&lt;/p&gt;</content><author><name></name></author><summary type="html">Dancing and singing to “Rhythm is a Dancer” by SNAP! shaped my childhood.</summary></entry></feed>
+=======
+&lt;p&gt;Fun Facts: I met Wolfman Jack when I was a kid and totally geeked out. Also, if you don’t know about my love for Montell Jordan’s “This Is How We Do It,” ask me about it sometime.&lt;/p&gt;</content><author><name></name></author><summary type="html">Dancing and singing to “Rhythm is a Dancer” by SNAP! enhanced my childhood.</summary></entry></feed>
+>>>>>>> 85cbb825771ed9c0d078c8c8e47ae8f99dc372ed

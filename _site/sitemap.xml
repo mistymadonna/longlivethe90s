@@ -5,12 +5,37 @@
 <lastmod>2016-10-30T00:00:00-07:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/404/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+=======
+<loc>http://localhost:4000/pi-setup/</loc>
+<lastmod>2018-03-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-best/</loc>
+<lastmod>2018-03-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-interview/</loc>
+<lastmod>2019-01-18T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/secret-twinpeaks/</loc>
+<lastmod>2019-03-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/404/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+>>>>>>> 85cbb825771ed9c0d078c8c8e47ae8f99dc372ed
 <loc>http://localhost:4000/</loc>
 </url>
 </urlset>

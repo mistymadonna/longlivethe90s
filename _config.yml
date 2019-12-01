@@ -28,7 +28,7 @@ footer-links:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-77282579-1
-
+remote_theme: h01000110/windows-95
 # Your website URL http://heymulder.com
 # Used for Sitemap.xml and your RSS feed
 url:

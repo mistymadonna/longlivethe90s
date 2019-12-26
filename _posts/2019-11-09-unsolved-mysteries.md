@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons from Unsolved Mysteries
-teaser: images/robert-stack.JPG
+teaser: images/robert-stack.jpg
 date: 2019-11-01
 ---
 ![lessons from unsolved mysteries sketchnote](/images/unsolved-mysteries-lessons.jpg){:class="img-responsive"}

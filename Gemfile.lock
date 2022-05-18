@@ -215,7 +215,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
     racc (1.6.0)
-    rack (2.0.8)
+    rack (2.1.4)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -261,7 +261,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   nokogiri
-  rack (~> 2.0.8)
+  rack (~> 2.1.4)
   rspec
 
 BUNDLED WITH
